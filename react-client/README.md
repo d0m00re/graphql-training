@@ -48,3 +48,6 @@ export default tseslint.config({
   },
 })
 ```
+
+## learn
+seeding prisma db 
